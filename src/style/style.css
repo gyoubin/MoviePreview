@@ -237,17 +237,13 @@
 }
 .cont-company .list-sns .link-instagram{
     background: url("../images/instagram.png");
-    background-repeat: no-repeat;
 }
 .cont-company .list-sns .link-facebook{
     background: url("../images/facebook.png");
-    background-repeat: no-repeat;
 }
 .cont-company .list-sns .link-twitter{
     background: url("../images/twitter.png");
-    background-repeat: no-repeat;
 }
 .cont-company .txt-copy{
     float: right;
     margin-top: 38px;
-}
